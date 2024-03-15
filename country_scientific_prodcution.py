@@ -86,3 +86,4 @@ if __name__ == "__main__":
     countries = count_country_frequency(affiliations)
     countries.to_csv("countries.csv")
     plot_world_map(countries)
+    
